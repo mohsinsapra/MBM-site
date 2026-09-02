@@ -1,0 +1,63 @@
+# MBM.STUDIO
+
+> Boutique 3D product animation studio and photo-realistic CGI production.
+
+## Overview
+MBM.STUDIO (also known as Made By Mahmood) is an independent 3D product animation and visualization studio founded by Mahmood. The studio specializes in photo-realistic 3D product animations, cinematic launch films, CGI commercials, and high-conversion visual storytelling for consumer electronics, luxury goods, hardware products, lifestyle brands, and crowdfunding campaigns worldwide.
+
+- **Website:** https://mbm.studio/
+- **Contact:** hi@mbm.studio
+- **Experience:** 4+ years of specialized 3D CGI experience, 600+ projects delivered, 150+ happy clients worldwide.
+- **Trusted By Brands Including:** Opel, Furnica, MBC Group, Unilever, Red Bull, Plockmatic Group, OMRON, Oppo, Whale Spa, Manvic, Finis, BrickBoy.
+- **Social & Portfolios:**
+  - Behance: https://www.behance.net/madebymahmood
+  - Instagram: https://www.instagram.com/madebymahmood/
+  - LinkedIn: https://www.linkedin.com/company/mbmstudio/
+  - Fiverr Pro: https://www.fiverr.com/madsouls
+
+---
+
+## Core Services & Capabilities
+
+1. **3D Product Animation:** Cinematic 30s to 90s product launch films, commercials, social ads (16:9, 9:16, 1:1, 4:5), internal mechanism reveals, and dynamic motion design.
+2. **Photorealistic Still Rendering:** Ultra-high-resolution product stills for marketing, packaging, e-commerce (Amazon, Shopify), print, and billboard advertising.
+3. **3D Modeling & CAD Conversion:** Converting engineering CAD files (STEP, IGES, SolidWorks, Rhino) into clean, render-ready topology or building accurate 3D models from scratch.
+4. **Crowdfunding & Kickstarter Campaigns:** Hero product videos and 3D visual collateral tailored for high-conversion crowdfunding campaigns (Kickstarter, Indiegogo).
+5. **B2B Sales & Marketing Visuals:** Product presentation decks, interactive 3D assets, exploded views, and technical demonstration videos.
+6. **3D Interactive Web Assets:** Web-ready 3D models and optimized animation sequences for modern interactive websites.
+
+---
+
+## Production Pipeline & Tools
+
+- **3D Modeling & Animation:** Maxon Cinema 4D, Blender, SideFX Houdini (particle, smoke, fluid simulations).
+- **Rendering Engines:** Maxon Redshift, Otoy OctaneRender, Unreal Engine.
+- **Compositing & Post-Production:** Adobe After Effects, DaVinci Resolve (color grading & mastering).
+- **Delivery Codecs:** ProRes 422HQ, ProRes 4444 with Alpha (transparent background), web-optimized H.264 / H.265 in 4K UHD and 1080p.
+
+---
+
+## Workflow & Process
+
+1. **Discover:** Detailed brief analysis, audience alignment, emotional tone, and creative objectives.
+2. **Script & Boards:** Beat sheet, storyboards, and timing animatic with scratch audio. Client approves timing before 3D production.
+3. **Design:** High-fidelity style frames establishing materials, lighting, surface imperfections, and color palette.
+4. **Animate:** Layout, camera choreography, FX simulations, and lighting passes with weekly progress check-ins.
+5. **Review:** Structured feedback and revision rounds before locking final picture.
+6. **Deliver:** Final color grading, sound design synchronization, and multi-ratio exports with 2-year archival.
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is the typical turnaround time?
+A typical 30-to-60 second 3D product commercial takes between 2 to 4 weeks. Rush delivery is available upon request.
+
+### How much does 3D product animation cost?
+Pricing is scoped on a flat-rate project basis depending on length, complexity, simulation needs, and CAD availability. Custom quotes are provided after reviewing project briefs.
+
+### What files are needed to begin?
+CAD or 3D files (STEP, IGES, OBJ, FBX) are preferred. If no 3D files exist, MBM.STUDIO models products from reference photos or blueprints. Brand guidelines (logos, colors) are also requested.
+
+### Do you sign NDAs?
+Yes. 100% of unreleased products and proprietary hardware projects are protected under mutual Non-Disclosure Agreements (NDAs).
